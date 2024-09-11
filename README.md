@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js , Solidity**
 
-- 👨‍💻 All of my projects are available at [Ehtasham Al Noman](Ehtasham Al Noman)
+- 👨‍💻 All of my projects are available at [[Ehtasham Al Noman](Ehtasham Al Noman)](https://github.com/NomanALPHA007)
 
 - 💬 Ask me about **react.js , js , web3**
 
