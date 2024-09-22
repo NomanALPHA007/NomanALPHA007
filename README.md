@@ -2,13 +2,9 @@
 <h3 align="center">A Creative Software Engineer Crafting Next-Gen Digital Experiences</h3>
 
 <div align="center" style="position: relative;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
-  <div style="position: absolute; top: 50px; left: 50px;">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" alt="Code Animation" />
-  </div>
-  <div style="position: absolute; top: 50px; right: 50px;">
-    <img src="https://media.giphy.com/media/3o7TKHXlQ7pfpsB795/giphy.gif" width="100" alt="Code Animation" />
-  </div>
+  <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding" />
+</p>
 </div>
 
 ---
