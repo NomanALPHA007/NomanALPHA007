@@ -27,33 +27,6 @@
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3.js" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&
-
----
-
-## 💼 About Me
-
-- 🌱 I’m currently learning **Next.js, Solidity, Web3 Development**
-- 💬 Ask me about **React.js, JavaScript, and Web3**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/NomanALPHA007)
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1OawdLeBCybtN6IOJxv8IZLo6wHkpOOa4/view?usp=sharing)
-- 📫 How to reach me: **ehtasham.noman321@gmail.com**
-
----
-
 ## 🛠️ Languages and Tools:
 
 <p align="center">
