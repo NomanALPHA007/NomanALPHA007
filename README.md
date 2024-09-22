@@ -38,28 +38,46 @@
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3.js" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="spring-boot" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql" />
 </p>
 
 ---
 
 ## 🚀 My Skills:
 
-### Frontend:
-- **React.js, Next.js**: Modern frontend frameworks
-- **HTML, CSS, JavaScript**: Core web technologies
-- **Web3.js, Solidity**: Blockchain development
+### Front-End Development:
+- **HTML5, CSS, JavaScript**: Proficient in building responsive, user-friendly interfaces using core web technologies.
+- **React.js, Next.js, ReactMUI, TailwindCSS**: Expertise in modern frontend frameworks and libraries to create interactive user experiences.
+- **Figma**: Skilled in designing intuitive and visually appealing user interfaces.
 
-### Backend:
-- **Node.js**: Server-side scripting
-- **Firebase**: Serverless architecture
+### Back-End Development:
+- **PHP, Java, Solidity, MySQL, Firebase, Express**: Proficient in developing and managing server-side applications, APIs, and databases with a deep understanding of server-side logic and integration.
+  
+### Database Management:
+- **MySQL, Firebase**: Extensive experience in designing, managing, and optimizing relational and non-relational databases.
 
-### Tools:
-- **Git & GitHub**: Version control
-- **Figma**: UI/UX design
-- **Vercel**: Cloud deployment
+### Version Control and Collaboration:
+- **Git & GitHub**: Proficient in version control and collaborating on team projects to maintain smooth workflows.
 
+### Systems Utilization and Technology Skills:
+- **Windows & Mac**: Proficient in utilizing both operating systems for development and management tasks.
+- **MS Office Suite**: Well-versed in using Word, Excel, and PowerPoint for documentation and presentations.
+
+### Software Proficiency:
+- **Development Tools**: Hands-on experience with Visual Studio, Visual Studio Code, PyCharm, Eclipse, IntelliJ, and MS SQL Server 2019.
+- **Project Management Tools**: Familiar with tools such as Clockify, Jira, and ClickUp for efficient project management and time tracking.
+
+### Programming Languages:
+- **C++, Python, HTML, CSS, JavaScript, PHP, MySQL, Java, Solidity**: Proficient in multiple programming languages, enabling flexibility and adaptability across various project requirements.
 ---
 
 ## 📈 GitHub Stats
