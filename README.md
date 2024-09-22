@@ -68,14 +68,6 @@
 ### Version Control and Collaboration:
 - **Git & GitHub**: Proficient in version control and collaborating on team projects to maintain smooth workflows.
 
-### Systems Utilization and Technology Skills:
-- **Windows & Mac**: Proficient in utilizing both operating systems for development and management tasks.
-- **MS Office Suite**: Well-versed in using Word, Excel, and PowerPoint for documentation and presentations.
-
-### Software Proficiency:
-- **Development Tools**: Hands-on experience with Visual Studio, Visual Studio Code, PyCharm, Eclipse, IntelliJ, and MS SQL Server 2019.
-- **Project Management Tools**: Familiar with tools such as Clockify, Jira, and ClickUp for efficient project management and time tracking.
-
 ### Programming Languages:
 - **C++, Python, HTML, CSS, JavaScript, PHP, MySQL, Java, Solidity**: Proficient in multiple programming languages, enabling flexibility and adaptability across various project requirements.
 ---
@@ -100,24 +92,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=radical&row=1&no-bg=true&no-frame=true" alt="nomanalpha007's GitHub Trophies" />
-</p>
-
----
-
-## 🌟 Highlighted Projects
-
-### [🔗 Crypto Dashboard](https://github.com/NomanALPHA007/crypto-dashboard)
-- A responsive dashboard to track cryptocurrency prices and metrics using React.js and API integration.
-
-### [🔗 NFT Marketplace](https://github.com/NomanALPHA007/nft-marketplace)
-- A marketplace to trade NFTs, integrating Solidity smart contracts and Web3.js.
-
----
-
-## 🧑‍💻 Code Contribution Activity:
-
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=nomanalpha007&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
