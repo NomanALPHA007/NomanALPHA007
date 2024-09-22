@@ -91,7 +91,7 @@
 ## 🔥 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=radical&row=1&no-bg=true&no-frame=true" alt="nomanalpha007's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=soft&row=1&no-bg=true&no-frame=true" alt="nomanalpha007's GitHub Trophies" />
 </p>
 
 ---
