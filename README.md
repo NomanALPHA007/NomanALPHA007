@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 <div align="center">
-    <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="Coding" width="400"/>
+    <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding" />
+</p>
 </div>
 
 <p align="center">
@@ -112,9 +114,7 @@
 
 ## 🏆 Achievements:
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding" />
-</p>
+
 
 ### 💬 Connect with me:
 <p align="center">
