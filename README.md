@@ -11,6 +11,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Enthusiast;Next.js+Learner;Web3+Explorer;Open+to+Collaboration+on+Exciting+Projects" alt="Typing SVG" />
 </p>
 
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Enthusiast;Next.js+Learner;Web3+Explorer;Open+to+Collaboration+on+Exciting+Projects" alt="Typing SVG" />
+</p>
+
+
 ## 💼 About Me
 
 - 🌱 I’m currently learning **Next.js, Solidity, Web3 Development**
@@ -37,9 +42,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&
 
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Enthusiast;Next.js+Learner;Web3+Explorer;Open+to+Collaboration+on+Exciting+Projects" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nomanalpha007&label=Profile%20Views&color=brightgreen&style=plastic" alt="Profile Views" />
