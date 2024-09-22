@@ -7,6 +7,9 @@
 </p>
 </div>
 
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Enthusiast;Next.js+Learner;Web3+Explorer;Open+to+Collaboration+on+Exciting+Projects" alt="Typing SVG" />
+</p>
 ---
 
 ## 💼 About Me
