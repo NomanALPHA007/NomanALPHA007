@@ -12,9 +12,10 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Enthusiast;Next.js+Learner;Web3+Explorer;Open+to+Collaboration+on+Exciting+Projects" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=nomanalpha007&label=Profile%20Views&color=brightgreen&style=plastic" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nomanalpha007?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/nomanalpha007?label=Stars&style=social" alt="GitHub Stars" />
 </p>
-
 
 ## 💼 About Me
 
@@ -40,14 +41,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nomanalpha007&label=Profile%20Views&color=brightgreen&style=plastic" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nomanalpha007?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/nomanalpha007?label=Stars&style=social" alt="GitHub Stars" />
-</p>
 
 ---
 
