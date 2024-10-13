@@ -55,9 +55,6 @@
 - **IT Consultancy Website**  
     Designed and developed a responsive website using **React.js**, improving the company's online presence.
 
-- **School Website**  
-    Built a cross-browser compatible and mobile-friendly school website using **React.js** and **TailwindCSS**.
-
 ---
 
 ## 🛠️ Languages and Tools:
