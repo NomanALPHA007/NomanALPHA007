@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Next.js, Solidity, Web3 Development**
 - 💬 Ask me about **React.js, JavaScript, and Web3**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/NomanALPHA007)
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1OawdLeBCybtN6IOJxv8IZLo6wHkpOOa4/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume] (https://drive.google.com/file/d/1LgIi2hjaWHC-DI1cNjxvqdH_qjpoX-Kb/view?usp=sharing)
 - 📫 How to reach me: **ehtasham.noman321@gmail.com**
 
 ---
