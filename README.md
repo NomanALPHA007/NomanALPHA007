@@ -31,7 +31,8 @@
 ## 🚀 Skills & Technologies
 
 ### Front-End Development:
-<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/React_MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="React MUI" /> </div> <p align="center"> 🕹️ **Building responsive, user-friendly interfaces** with tools like <span style="color:#ffcc33;">Figma</span> for design! </p>
+- **HTML5**, **CSS**, **JavaScript**, **React.js**, **Next.js**, **TailwindCSS**, **ReactMUI**
+- Experience in building **responsive, user-friendly interfaces** and using tools like **Figma** for design.
 
 ### Back-End Development:
 - **PHP**, **Java**, **Solidity**, **MySQL**, **Firebase**, **Express.js**
