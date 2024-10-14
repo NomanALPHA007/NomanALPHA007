@@ -47,16 +47,6 @@
 
 ---
 
-## 🌐 Projects
-
-- **Blockchain Decentralized Social Media & NFT Marketplace**  
-    Developed a decentralized platform with **JavaScript**, **React.js**, **Next.js**, **TailwindCSS**, **Solidity**, **MetaMask** integration, and **Third Web**, focusing on security and scalability.
-
-- **IT Consultancy Website**  
-    Designed and developed a responsive website using **TypeScript**, **React.js**, **Next.js**, **TailwindCSS**, improving the company's online presence.
-
----
-
 ## 🛠️ Languages and Tools:
 
 <p align="center">
