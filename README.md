@@ -22,8 +22,7 @@
 - 🎓 Currently studying **Bachelor of Computer Science (Software Engineering)** from Universiti Teknologi Malaysia  
 - 🌱 Currently learning **Next.js, Solidity, Web3**  
 - 🛠️ Skilled in **React.js, JavaScript, Blockchain** and more  
-- 💬 Ask me about **Web3, Smart Contracts, DApps**  
-- 💻 Check out my work on [GitHub](https://github.com/NomanALPHA007)  
+- 💬 Ask me about **Web3, Smart Contracts, DApps**    
 - 📫 Reach me at: ehtasham.noman321@gmail.com  
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1_7JcOVrAO_-Vt5CZKkG-II2m1PC6uqUG/view?usp=sharing)
 ---
