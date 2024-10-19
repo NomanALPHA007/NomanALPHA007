@@ -3,11 +3,7 @@
 
 <!-- Tenor GIF Embed -->
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="27290753" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-    <a href="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290753">Data Code Sticker</a> from
-    <a href="https://tenor.com/search/data-stickers">Data Stickers</a>
-  </div>
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="480" height="269" alt="Hello World Programming GIF" />
 </div>
 
 <p align="center">
