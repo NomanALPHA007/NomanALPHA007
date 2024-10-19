@@ -2,7 +2,7 @@
 <h3 align="center">A Creative Software Engineer Crafting Next-Gen Digital Experiences</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="480" height="269" alt="Typography Bug Feature" />
+  <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="480" height="269" alt="Typography Bug Feature" />
   
 </div>
 
