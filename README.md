@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af346bf0-5706-4c92-80a2-fc574b411353)<h1 align="center">Hi 👋, I'm Ehtasham Al Noman</h1>
+<h1 align="center">Hi 👋, I'm Ehtasham Al Noman</h1>
 <h3 align="center">A Creative Software Engineer Crafting Next-Gen Digital Experiences</h3>
 
 
