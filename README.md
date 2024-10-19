@@ -1,10 +1,7 @@
 ![image](https://github.com/user-attachments/assets/af346bf0-5706-4c92-80a2-fc574b411353)<h1 align="center">Hi 👋, I'm Ehtasham Al Noman</h1>
 <h3 align="center">A Creative Software Engineer Crafting Next-Gen Digital Experiences</h3>
 
-<!-- Tenor GIF Embed -->
-<div align="center">
-  <img src="https://media.tenor.com/images/YOUR-GIF-ID.gif" width="480" height="269" alt="Data Code Sticker" />
-</div>
+
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=25&pause=1000&color=6CACE4&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Blockchain+Explorer;Decentralized+Apps+Creator;Collaborative+Leader" alt="Typing SVG" />
