@@ -3,7 +3,7 @@
 
 <!-- Tenor GIF Embed -->
 <div align="center">
-  <img src="https://media.tenor.com/images/YOUR-GIF-ID.gif" width="480" height="269" alt="Data Code Sticker" />
+  <img src="https://media.tenor.com/YOUR_GIF_LINK.gif" width="480" height="269" alt="Data Code Sticker" />
 </div>
 
 <p align="center">
