@@ -2,11 +2,13 @@
 <h3 align="center">A Creative Software Engineer Crafting Next-Gen Digital Experiences</h3>
 
 <!-- Tenor GIF Embed -->
-<div class="tenor-gif-embed" data-postid="27290753" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-  <a href="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290753">Data Code Sticker</a> from
-  <a href="https://tenor.com/search/data-stickers">Data Stickers</a>
+<div align="center">
+  <div class="tenor-gif-embed" data-postid="27290753" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+    <a href="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290753">Data Code Sticker</a> from
+    <a href="https://tenor.com/search/data-stickers">Data Stickers</a>
+  </div>
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=25&pause=1000&color=6CACE4&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Blockchain+Explorer;Decentralized+Apps+Creator;Collaborative+Leader" alt="Typing SVG" />
