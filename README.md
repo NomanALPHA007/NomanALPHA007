@@ -2,8 +2,10 @@
 <h3 align="center">A Creative Software Engineer Crafting Next-Gen Digital Experiences</h3>
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/gDPxwdP6SKFnsWDJ2u" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/typography-bug-feature-gDPxwdP6SKFnsWDJ2u">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="480" height="269" alt="Typography Bug Feature" />
+  <p><a href="https://giphy.com/gifs/typography-bug-feature-gDPxwdP6SKFnsWDJ2u">via GIPHY</a></p>
 </div>
+
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=25&pause=1000&color=6CACE4&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Blockchain+Explorer;Decentralized+Apps+Creator;Collaborative+Leader" alt="Typing SVG" />
