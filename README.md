@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="480" height="269" alt="Typography Bug Feature" />
-  <p><a href="https://giphy.com/gifs/typography-bug-feature-gDPxwdP6SKFnsWDJ2u">via GIPHY</a></p>
+  
 </div>
 
 
