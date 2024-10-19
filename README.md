@@ -3,7 +3,7 @@
 
 <!-- Tenor GIF Embed -->
 <div align="center">
-  <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="480" height="269" alt="Hello World Programming GIF" />
+  <img src="https://tenor.com/b0FJB.gif" width="480" height="269" alt="Hello World Programming GIF" />
 </div>
 
 <p align="center">
