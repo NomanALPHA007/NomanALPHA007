@@ -25,7 +25,7 @@
 - 🛠️ Skilled in **React.js, JavaScript, Blockchain** and more  
 - 💬 Ask me about **Web3, Smart Contracts, DApps**    
 - 📫 Reach me at: ehtasham.noman321@gmail.com  
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1_7JcOVrAO_-Vt5CZKkG-II2m1PC6uqUG/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1txchTvxGPmGvVuUiqYW26O_I9P5iMJWp/view?usp=sharing)
 ---
 
 ## 🚀 Skills & Technologies
