@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Ehtasham Al Noman</h1>
-<h3 align="center">A Creative Software Engineer Crafting Next-Gen Digital Experiences</h3>
+<h1 align="center">
+    <br>
+    こんにちは、 Welcome to My GitHub Profile 
+    <br>
+</h1>
 
-<!-- Tenor GIF Embed -->
-<div align="center">
-  <img src="https://media.tenor.com/YOUR_GIF_LINK.gif" width="480" height="269" alt="Data Code Sticker" />
-</div>
+<h1 align="center"><b>Hi, I'm Ehtasham Al Noman</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=25&pause=1000&color=6CACE4&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Blockchain+Explorer;Decentralized+Apps+Creator;Collaborative+Leader" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=25&color=%234AB5FA&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Blockchain+Explorer;Decentralized+App+Creator;Creative+Problem+Solver"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nomanalpha007&label=Profile%20Views&color=yellow&style=plastic" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nomanalpha007?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/nomanalpha007?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=nomanalpha007&label=Profile%20Views&color=4AB5FA&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nomanalpha007?label=Followers&color=9C27B0&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/nomanalpha007?label=Stars&color=FFC107&style=social" alt="GitHub Stars" />
 </p>
 
 ---
+
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> **About Me**
 
 ## 🕹️ About Me
 
