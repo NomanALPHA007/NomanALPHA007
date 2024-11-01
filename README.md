@@ -75,47 +75,47 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomanalpha007&theme=radical&show_icons=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanalpha007&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanalpha007&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nomanalpha007&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanalpha007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanalpha007&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=radical&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=radical&no-frame=true&margin-w=10&column=6&animation=true" alt="GitHub Trophies" />
+</div>
 
 ---
 
-## 🎯 Profile Summary:
+## 🎯 Profile Summary
 
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomanalpha007&theme=radical" alt="Profile Summary" />
-</p>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomanalpha007&theme=radical" alt="Profile Summary" />
+</div>
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
 ---
 
 ## 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=nomanalpha007&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nomanalpha007&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
 
 ---
 
