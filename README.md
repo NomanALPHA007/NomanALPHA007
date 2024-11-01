@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    こんにちは、 Welcome to My GitHub Profile 
+     Welcome to My GitHub Profile 
     <br>
 </h1>
 
