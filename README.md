@@ -20,14 +20,35 @@
 
 <div align="center">
 
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> **About Me**
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"></picture> **About Me**
 
-- 🎓 Currently studying **Bachelor of Computer Science (Software Engineering)** from Universiti Teknologi Malaysia  
-- 🌱 Currently learning **Next.js, Solidity, Web3**  
-- 🛠️ Skilled in **React.js, JavaScript, Blockchain** and more  
-- 💬 Ask me about **Web3, Smart Contracts, DApps**    
-- 📫 Reach me at: ehtasham.noman321@gmail.com  
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1txchTvxGPmGvVuUiqYW26O_I9P5iMJWp/view?usp=sharing)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=Hello!+I'm+Ehtasham+Al+Noman;Passionate+Software+Engineer;Web3+and+Blockchain+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center" style="font-size: 18px; color: #F5DEB3;">
+    🎓 <b>Currently studying</b> Bachelor of Computer Science (Software Engineering) from Universiti Teknologi Malaysia  
+</p>
+
+<p align="center" style="font-size: 18px; color: #B0C4DE;">
+    🌱 <b>Currently learning</b> Next.js, Solidity, Web3  
+</p>
+
+<p align="center" style="font-size: 18px; color: #E6E6FA;">
+    🛠️ <b>Skilled in</b> React.js, JavaScript, Blockchain, and more  
+</p>
+
+<p align="center" style="font-size: 18px; color: #C0C0C0;">
+    💬 <b>Ask me about</b> Web3, Smart Contracts, DApps  
+</p>
+
+<p align="center" style="font-size: 18px; color: #FFD700;">
+    📫 <b>Reach me at:</b> ehtasham.noman321@gmail.com  
+</p>
+
+<p align="center" style="font-size: 18px; color: #D8BFD8;">
+    📄 <b>Know about my experiences:</b> <a href="https://drive.google.com/file/d/1txchTvxGPmGvVuUiqYW26O_I9P5iMJWp/view?usp=sharing" style="color: #4682B4;">My Resume</a>
+</p>
 
 ---
 
