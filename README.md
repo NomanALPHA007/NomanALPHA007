@@ -75,18 +75,18 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomanalpha007&show_icons=true&theme=merko" alt="nomanalpha007's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nomanalpha007&theme=radical&show_icons=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanalpha007&layout=compact&theme=merko" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanalpha007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanalpha007&theme=merko" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanalpha007&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
