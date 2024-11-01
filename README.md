@@ -7,7 +7,9 @@
 <h1 align="center"><b>Hi, I'm Ehtasham Al Noman</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=25&color=%234AB5FA&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Blockchain+Explorer;Decentralized+App+Creator;Creative+Problem+Solver"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=25&color=%234AB5FA&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Blockchain+Explorer;Decentralized+App+Creator;Creative+Problem+Solver">
+  </a>
 </p>
 
 <p align="center">
@@ -50,7 +52,11 @@
     📄 <b>Know about my experiences:</b> <a href="https://drive.google.com/file/d/1txchTvxGPmGvVuUiqYW26O_I9P5iMJWp/view?usp=sharing" style="color: #4682B4;">My Resume</a>
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌌 **Tech Stack**
 
@@ -147,16 +153,15 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Contribution</b>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/nomanalpha007">
     <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="GitHub Contribution Snake" />
   </a>
-</p>
-
+</div>
 
 ---
 
-## 🔗 Let's Connect:
+## 🔗 Let's Connect
 
 <p align="center">
     <a href="https://linkedin.com/in/ehtasham-al-noman" target="_blank">
@@ -169,6 +174,6 @@
 
 ---
 
-<p align="center" style="font-size:14px; color: #FFF700">
+<p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Powered+by+passion+for+technology" alt="Typing SVG" />
 </p>
