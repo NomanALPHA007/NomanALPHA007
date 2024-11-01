@@ -26,7 +26,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=Hello!+I'm+Ehtasham+Al+Noman;Passionate+Software+Engineer;Web3+and+Blockchain+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center" style="font-size: 18px; color: #F5DEB3;">
+<p align="center" style="font-size: 18px; color: #A3A35D;">
     🎓 <b>Currently studying</b> Bachelor of Computer Science (Software Engineering) from Universiti Teknologi Malaysia  
 </p>
 
