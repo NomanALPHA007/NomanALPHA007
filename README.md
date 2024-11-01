@@ -108,6 +108,28 @@
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repos
+
+![](https://github-contributor-stats.vercel.app/api?username=nomanalpha007&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Contribution</b>
+
+<p align="center">
+  <a href="https://github.com/nomanalpha007">
+    <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="GitHub Contribution Snake" />
+  </a>
+</p>
+
+
+---
+
 ## 🔗 Let's Connect:
 
 <p align="center">
