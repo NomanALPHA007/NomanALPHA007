@@ -20,8 +20,6 @@
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> **About Me**
 
-## 🕹️ About Me
-
 - 🎓 Currently studying **Bachelor of Computer Science (Software Engineering)** from Universiti Teknologi Malaysia  
 - 🌱 Currently learning **Next.js, Solidity, Web3**  
 - 🛠️ Skilled in **React.js, JavaScript, Blockchain** and more  
