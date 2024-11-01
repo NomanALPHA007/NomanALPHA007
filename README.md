@@ -134,6 +134,19 @@
 
 <div align="center">
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Contribution</b>
+
+<a href="https://github.com/nomanalpha007">
+  <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="GitHub Contribution Snake" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+    
 ## 🔗 Let's Connect
 
 <a href="https://linkedin.com/in/ehtasham-al-noman" target="_blank">
