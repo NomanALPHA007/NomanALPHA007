@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="background-color: #556B2F; color: #FFFFFF;">
     <br>
      Welcome to My GitHub Profile 
     <br>
