@@ -18,17 +18,9 @@
 
 ---
 
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> **About Me**
-
-- 🎓 Currently studying **Bachelor of Computer Science (Software Engineering)** from Universiti Teknologi Malaysia  
-- 🌱 Currently learning **Next.js, Solidity, Web3**  
-- 🛠️ Skilled in **React.js, JavaScript, Blockchain** and more  
-- 💬 Ask me about **Web3, Smart Contracts, DApps**    
-- 📫 Reach me at: ehtasham.noman321@gmail.com  
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1txchTvxGPmGvVuUiqYW26O_I9P5iMJWp/view?usp=sharing)
----
-
 ## 🌌 **Tech Stack**:
+
+<div align="center">
 
 ### 🖥️ Programming Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
@@ -73,6 +65,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
+</div>
 ---
 
 ## 📊 GitHub Stats
