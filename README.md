@@ -1,4 +1,8 @@
-<h1 align="center" style="background-color: #556B2F;">
+<table align="center" width="100%" bgcolor="#F5DEB3">
+  <tr>
+    <td align="center">
+
+<h1 align="center">
     <br>
      Welcome to My GitHub Profile 
     <br>
@@ -17,8 +21,6 @@
 </p>
 
 ---
-
-<div align="center">
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"></picture> **About Me**
 
@@ -50,7 +52,9 @@
     📄 <b>Know about my experiences:</b> <a href="https://drive.google.com/file/d/1UaXnFtXD-Xno6Xl_pdvJRxGW9JnRE_hm/view?usp=sharing" style="color: #4682B4;">My Resume</a>
 </p>
 
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -102,90 +106,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=nomanalpha007&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanalpha007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanalpha007&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=radical&no-frame=true&margin-w=10&column=6&animation=true" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomanalpha007&theme=radical" alt="Profile Summary" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✍️ Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🔝 Top Contributed Repos
-
-<img src="https://github-contributor-stats.vercel.app/api?username=nomanalpha007&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Contribution</b>
-
-<a href="https://github.com/nomanalpha007">
-  <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="GitHub Contribution Snake" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔗 Let's Connect
-
-<a href="https://linkedin.com/in/ehtasham-al-noman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/NomanALPHA007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Powered+by+passion+for+technology" alt="Typing SVG" />
-</p>
