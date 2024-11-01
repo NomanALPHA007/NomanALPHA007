@@ -107,70 +107,84 @@
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomanalpha007&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanalpha007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanalpha007&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=nomanalpha007&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanalpha007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanalpha007&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
+
+<div align="center">
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=radical&no-frame=true&margin-w=10&column=6&animation=true" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=radical&no-frame=true&margin-w=10&column=6&animation=true" alt="GitHub Trophies" />
+
 </div>
 
 ---
+
+<div align="center">
 
 ## 🎯 Profile Summary
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomanalpha007&theme=radical" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomanalpha007&theme=radical" alt="Profile Summary" />
+
 </div>
 
 ---
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
 </div>
 
 ---
+
+<div align="center">
 
 ## 🔝 Top Contributed Repos
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nomanalpha007&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+<img src="https://github-contributor-stats.vercel.app/api?username=nomanalpha007&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+
 </div>
 
 ---
+
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Contribution</b>
 
-<div align="center">
-  <a href="https://github.com/nomanalpha007">
-    <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="GitHub Contribution Snake" />
-  </a>
+<a href="https://github.com/nomanalpha007">
+  <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="GitHub Contribution Snake" />
+</a>
+
 </div>
 
 ---
 
+<div align="center">
+
 ## 🔗 Let's Connect
 
-<p align="center">
-    <a href="https://linkedin.com/in/ehtasham-al-noman" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/NomanALPHA007" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-</p>
+<a href="https://linkedin.com/in/ehtasham-al-noman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/NomanALPHA007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 ---
 
