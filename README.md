@@ -28,45 +28,50 @@
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1txchTvxGPmGvVuUiqYW26O_I9P5iMJWp/view?usp=sharing)
 ---
 
-## 🚀 Skills & Technologies
+## 🌌 **Tech Stack**:
 
-### Front-End Development:
-- **HTML5**, **CSS**, **JavaScript**, **React.js**, **Next.js**, **TailwindCSS**, **ReactMUI**
-- Experience in building **responsive, user-friendly interfaces** and using tools like **Figma** for design.
+### 🖥️ Programming Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat-square&logo=java&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-%231572B6.svg?style=flat-square&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) 
 
-### Back-End Development:
-- **PHP**, **Java**, **Solidity**, **MySQL**, **Firebase**, **Express.js**
-- Proficient in server-side logic, API development, and database management.
+### 🎨 Front-End Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
+![React.js](https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
+![React MUI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
 
-### Blockchain Development:
-- Hands-on with **Solidity**, **Polygon**, **Third Web**, and blockchain integration.
-- Expertise in building **decentralized apps (DApps)**, NFT platforms, and integrating **MetaMask** for Web3 interactions.
+### 🛠️ Back-End Development
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 
-### Tools & Software:
-- **VS Code**, **IntelliJ**, **Git**, **MS SQL Server**, **ClickUp**, **Jira**
+### 🔗 Blockchain Development
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) 
+![Polygon](https://img.shields.io/badge/Polygon-%23634DBF.svg?style=flat-square&logo=polygon&logoColor=white) 
+![MetaMask](https://img.shields.io/badge/MetaMask-%23F6851B.svg?style=flat-square&logo=metamask&logoColor=white) 
+![Third Web](https://img.shields.io/badge/Third_Web-%23FCFDFE.svg?style=flat-square&logo=web&logoColor=black)
 
----
+### 🌐 Tools & Systems
+![AWS](https://img.shields.io/badge/Amazon_AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) 
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat-square&logo=jira&logoColor=white) 
+![MS Office](https://img.shields.io/badge/MS_Office-%23D83B01.svg?style=flat-square&logo=microsoft-office&logoColor=white)
 
-## 🛠️ Languages and Tools:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3.js" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="spring-boot" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" />
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql" />
-</p>
+### 🧰 Version Control & Collaboration
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
 
