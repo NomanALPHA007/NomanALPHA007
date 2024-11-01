@@ -94,7 +94,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=darkhub&no-frame=true&column=6" alt="nomanalpha007's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=radical&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -102,8 +102,9 @@
 ## 🎯 Profile Summary:
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomanalpha007&theme=2077" alt="Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomanalpha007&theme=radical" alt="Profile Summary" />
 </p>
+
 
 ---
 
