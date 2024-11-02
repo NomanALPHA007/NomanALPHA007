@@ -1,5 +1,7 @@
 <h1 align="center">
+    <br>
     Welcome to My GitHub Profile
+    <br>
 </h1>
 
 <p align="center">
