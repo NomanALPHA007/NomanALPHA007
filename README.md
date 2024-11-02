@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/github/stars/nomanalpha007?affiliations=OWNER&style=social" alt="GitHub Stars" />
 </p>
 
----
-
 <div align="center">
 
 ## 🧑‍💻 About Me
@@ -51,8 +49,6 @@
 </p>
 
 </div>
-
----
 
 <div align="center">
 
@@ -98,28 +94,14 @@
 
 </div>
 
----
-
 <div align="center">
 
-## 📊 GitHub Stats
-
-<!-- GitHub Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomanalpha007&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<!-- Top Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanalpha007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanalpha007&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NomanALPHA007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NomanALPHA007&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NomanALPHA007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<be>
+</div>
 
 <div align="center">
 
@@ -130,18 +112,18 @@
 
 </div>
 
----
-
 <div align="center">
 
-## 🔝 Top Contributed Repos
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NomanALPHA007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+ 
+<be>
 
-<!-- Top Contributed Repos Card -->
-<img src="https://github-contributor-stats.vercel.app/api?username=nomanalpha007&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br>
 
 </div>
-
----
 
 <div align="center">
 
@@ -153,8 +135,6 @@
 </a>
 
 </div>
-
----
 
 <div align="center">
     
@@ -168,8 +148,6 @@
 </a>
 
 </div>
-
----
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Powered+by+passion+for+technology" alt="Typing SVG" />
