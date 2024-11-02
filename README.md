@@ -100,10 +100,6 @@
 
 <div align="center">
 
----
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
