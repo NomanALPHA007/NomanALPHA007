@@ -100,13 +100,24 @@
 
 <div align="center">
 
+---
+
+<div align="center">
+
 ## 📊 GitHub Stats
 
+<!-- GitHub Stats Card -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nomanalpha007&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <br><br>
+</p>
+
+<!-- Top Languages Card -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanalpha007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br><br>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanalpha007&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -116,6 +127,7 @@
 
 ## 🏆 GitHub Trophies
 
+<!-- GitHub Trophies Card -->
 <img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=radical&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
 
 </div>
@@ -126,6 +138,7 @@
 
 ## 🔝 Top Contributed Repos
 
+<!-- Top Contributed Repos Card -->
 <img src="https://github-contributor-stats.vercel.app/api?username=nomanalpha007&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 
 </div>
