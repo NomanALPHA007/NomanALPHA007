@@ -106,10 +106,8 @@
 <div align="center">
 
 ## 🏆 GitHub Trophies
-
 <!-- GitHub Trophies Card -->
-<img src="https://github-profile-trophy.vercel.app/?username=nomanalpha007&theme=radical&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=NomanALPHA007&theme=radical&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
