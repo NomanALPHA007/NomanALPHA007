@@ -132,14 +132,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nomanalpha007&label=Profile%20Views&color=4AB5FA&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nomanalpha007?label=Followers&color=9C27B0&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/NomanALPHA007?affiliations=OWNER&style=social" alt="GitHub Stars" />
-</p>
-
-
----
 
 <div align="center">
 
