@@ -102,13 +102,13 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nomanalpha007&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanalpha007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanalpha007&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nomanalpha007&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanalpha007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanalpha007&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -129,6 +129,15 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=nomanalpha007&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nomanalpha007&label=Profile%20Views&color=4AB5FA&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nomanalpha007?label=Followers&color=9C27B0&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/NomanALPHA007?affiliations=OWNER&style=social" alt="GitHub Stars" />
+</p>
+
 
 ---
 
