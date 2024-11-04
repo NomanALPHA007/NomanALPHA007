@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-    📄 <b>Know about my experiences:</b> <a href="https://drive.google.com/file/d/1UaXnFtXD-Xno6Xl_pdvJRxGW9JnRE_hm/view?usp=sharing">My Resume</a>
+    📄 <b>Know about my experiences:</b> <a href="https://drive.google.com/file/d/1U7LZOmo0nO2_vwNzrbEo2QKgaPHdNqyf/view?usp=sharing">My Resume</a>
 </p>
 
 </div>
